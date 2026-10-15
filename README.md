@@ -30,7 +30,7 @@
     </td>
     <td align="center" width="25%">
       <b>🛡️ IT Operations Lead</b><br/>
-      <sub>PMP® Governance & SLA Management</sub>
+      <sub>PMP® Project Management</sub>
     </td>
   </tr>
 </table>
