@@ -1,148 +1,294 @@
 <div align="center">
 
-# Ahmad Bilal
-### Principal Infrastructure & Cloud Solutions Architect | Lead IT Operations Consultant
-**Enterprise Hybrid Cloud • Kubernetes & GitOps • IT Operations Leadership • PMP®**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Ahmad+Bilal;Principal+Infrastructure+%26+Cloud+Solutions+Architect;Lead+IT+Operations+Consultant;Kubernetes+%7C+Hybrid+Cloud+%7C+DevOps+%7C+AIOps;Building+Highly+Available+Enterprise+Platforms" alt="Typing SVG## Principal Infrastructure & Cloud Solutions Architect
+### Lead IT Operations Consultant | PMP®
 
-[![Phone](https://img.shields.io/badge/Phone-%2B966%20540952792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966540952792)
-[![Email](https://img.shields.io/badge/Email-ahmadbilal2011%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbilal2011@live.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadbilal2011-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadbilal2011)
-[![Location](https://img.shields.io/badge/Location-Riyadh%2C%20Saudi%20Arabia-1E293B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+> Architecting resilient enterprise infrastructure, cloud-native platforms, AI-driven operations, and mission-critical environments at scale.
 
-<br/>
+<p align="center">
+  <a href="https://wa.me/966540952792">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=ogoColor=white
+  </a>
+  <a href="mailto:ahmadbilal2011@live.com">
+    <img src="g.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+  </a>
+  <a href="https://www.linkedin.com/in/ahmadbilal2011">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?styleadge&logo=linkedin&logoColor=white
+  </a>
+</p>
 
-> *"Bridging resilient enterprise infrastructure and modern cloud-native architectures — scaling high-availability platforms, automating mission-critical IT operations, and integrating AI-driven observability for zero-downtime performance."*
-
----
-
-| 🏛️ 13+ Years Experience | ☁️ Multi-Cloud & Hybrid | ☸️ Kubernetes & DevOps | 🛡️ Lead IT Operations |
-| :---: | :---: | :---: | :---: |
-| Enterprise Advisory & Delivery | AWS • GCP • Azure • VMware | OpenShift • GKE • Rancher • CI/CD | PMP® Governance & SLA Management |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadbilal2011&style=for-the-badge&color=0
 
 </div>
 
 ---
 
-### 💼 Executive Summary
+## 🚀 Executive Overview
 
-As a **Lead Infrastructure & Cloud Solutions Consultant**, I guide enterprise organizations and government entities through complex cloud transformations, system modernizations, and IT operational turnarounds. Backed by **13+ years of engineering leadership** and a **PMP® credential**, I specialize in aligning strategic business goals with high-availability architectures, automated zero-trust operations, and AI-assisted telemetry across hybrid environments.
-
-- 📍 **Location:** Riyadh, Saudi Arabia (Transferable Iqama)
-- 🎯 **Target Roles:** Principal Cloud Architect, Lead Infrastructure Consultant, Head of IT Operations
-- 🌟 **Specialties:** Sovereign IT Governance, Multi-Cluster Kubernetes, Enterprise Virtualization & Storage, AIOps Observability
-
----
-
-### 🛠️ Core Capabilities & Technology Stack
-
-#### ☁️ Cloud Platforms, HCI & Virtualization
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_vSphere_7-607078?style=flat-square&logo=vmware&logoColor=white)
-![Nutanix](https://img.shields.io/badge/Nutanix_HCI-024DA1?style=flat-square&logo=nutanix&logoColor=white)
-![Dell HCI](https://img.shields.io/badge/Dell_HCI-007DB8?style=flat-square&logo=dell&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-
-#### ☸️ Containerization, Orchestration & DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=flat-square&logo=red-hat-openshift&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-#### 🐧 Operating Systems & Core Services
-- **OS Distributions:** Red Hat Enterprise Linux (RHEL 6/7/8/9/10), Ubuntu Server, Debian, Windows Server, Oracle Solaris, HP-UX
-- **Web & Reverse Proxies:** Nginx, Apache HTTP Server, Apache Tomcat, HAProxy
-- **Enterprise Directory & Services:** Active Directory, DNS, IIS, Samba, Secure Copy (SCP), FTP
-- **Package Lifecycles:** YUM/DNF, APT, Snap, Source Scratch Compiles
-
-#### 📈 Observability, AIOps & IT Service Management
-- **Metrics & Dashboards:** Prometheus, Grafana, Zabbix, Nagios, Cacti, SolarWinds
-- **Logging & APM:** Grafana Loki, AppDynamics
-- **AIOps & Intelligence:** Real-time log pattern anomaly detection and predictive disk/compute exhaustion modeling
-- **ITSM & Security Governance:** Ivanti ITSM, Ivanti Asset Management, CyberArk, Thycotic, Arcon PAM
-
-#### 💾 Storage Resilience & Business Continuity
-- **Primary SAN/NAS Arrays:** Dell EMC Storage Systems (PowerStore/Unity), Huawei OceanStor
-- **Disaster Recovery & Backup Suites:** Veeam Backup & Replication, Dell EMC Avamar, Dell EMC RecoverPoint
+```yaml
+Name: Ahmad Bilal
+Location: Riyadh, Saudi Arabia
+Experience: 13+ Years
+Certification:
+  - PMP®
+  - AWS Solutions Architect Professional
+  - RHCSA
+  - VMware VCP-DCV
+Focus Areas:
+  - Enterprise Cloud Transformation
+  - Kubernetes Platform Engineering
+  - Hybrid Cloud Architecture
+  - Infrastructure Modernization
+  - DevOps & GitOps Automation
+  - IT Operations Leadership
+```
 
 ---
 
-### 🏆 Certifications & Professional Credentials
+## 🎯 What I Do
 
-- **PMP®** — Project Management Professional *(Active)*
-- **AWS Certified Solutions Architect – Professional** *(Active)*
-- **RHCSA v9** — Red Hat Certified System Administrator *(Active)*
-- **VCP-DCV 2022** — VMware Certified Professional: Data Center Virtualization *(Active)*
-- **Red Hat RHCE** — Advanced Automation & System Engineering *(Training Completed)*
-- **HCIE R&S** — Huawei Certified ICT Expert: Routing & Switching *(Training & Written Exam)*
-- **Azure Administrator (AZ-104)** *(Prior Certification)*
-- **Master Cloud-Native Infrastructure with Kubernetes** *(LinkedIn Learning Path)*
-- **Azure for DevOps: Designing a Strategy** *(LinkedIn Learning)*
+I help enterprises, government organizations, and technology teams modernize infrastructure, automate operations, strengthen governance, and accelerate cloud adoption using scalable and secure architectures.
 
----
+### Core Specializations
 
-### 🚀 Key Enterprise Projects Delivered
+✅ Hybrid Cloud Architecture
 
-#### 1. Hybrid Multi-Cloud Modernization & AI Incident Detection *(OTT Media Platform)*
-- **Role:** Senior Cloud Architect & ITO Lead
-- **Architecture:** Orchestrated microservices on **Google Kubernetes Engine (GKE)** coupled with on-premises **VMware vSphere** clusters using automated **GitLab CI/CD** deployment pipelines.
-- **AI Integration:** Implemented an **AIOps metric-anomaly detection pipeline** on top of Prometheus and Grafana to spot microservice latency degradation before users were impacted.
-- **Outcome:** Maintained 99.99% service availability during major live-streaming events and reduced Mean Time to Detect (MTTD) by 40%.
+✅ Kubernetes & OpenShift Platforms
 
-#### 2. Public Sector Infrastructure Automation & Zero-Trust Hardening *(ADAA Project)*
-- **Role:** Team Lead IT Operations / Senior Linux Architect
-- **Architecture:** Standardized enterprise configuration across hundreds of RHEL nodes using **Red Hat Satellite** and automated **Ansible** playbooks.
-- **Security & Ops:** Enforced Privileged Access Management (**CyberArk** / **Arcon**) and end-to-end tracing with **AppDynamics**.
-- **Outcome:** Reduced security patch deployment windows from multiple days to under 4 hours while fulfilling strict government compliance standards.
+✅ Enterprise Infrastructure Operations
 
-#### 3. Detasad , SEC *(National Grid Project)*
-- **Role:** Infrastructure & Operations Lead
-- **Architecture:** Modernized mission-critical virtualization estates on **Dell HCI** and **VMware vSphere**, backed by high-throughput **Dell EMC** and **Huawei OceanStor** SAN arrays.
-- **Disaster Recovery:** Deployed continuous replication via **Veeam** and **Dell EMC RecoverPoint**, integrated with **Ivanti ITSM** for SLA workflows.
-- **Outcome:** Delivered sub-15-minute cross-site DR failover and guaranteed zero unrecoverable data loss for real-time grid operations.
+✅ Multi-Cloud Strategy (AWS, Azure, GCP)
+
+✅ DevOps & GitOps Automation
+
+✅ Infrastructure as Code
+
+✅ AI-Powered Observability
+
+✅ Disaster Recovery & Business Continuity
+
+✅ FinOps & Cost Optimization
+
+✅ Enterprise Governance & Compliance
 
 ---
 
-### 🌐 Featured Freelance & Advisory Engagements
+# ☁️ Cloud & Infrastructure
 
-#### 🔹 Multi-Cluster GitOps & Progressive Delivery Pipeline
-- **Client Profile:** Regional E-Commerce & Retail SaaS Provider
-- **Challenge:** Fragile manual deployments across staging and production clusters caused release delays and configuration drift.
-- **Consulting Solution:**
-  - Architected a declarative GitOps engine utilizing **GitLab CI**, **Helm**, and **ArgoCD** targeting both **GKE** and on-premises bare-metal Kubernetes clusters.
-  - Implemented progressive canary rollouts backed by automated health checks and instant automated rollbacks.
-- **Impact:** Decreased deployment release cycles from 3 hours to under 8 minutes with zero production roll-forward incidents.
+<p align="center">
 
-#### 🔹 AI-Powered FinOps & Automated Cloud Resource Governance
-- **Client Profile:** High-Growth Fintech Platform (AWS / Azure)
-- **Challenge:** Uncontrolled cloud spend driven by over-provisioned Kubernetes nodes, idle dev environments, and orphaned storage volumes.
-- **Consulting Solution:**
-  - Architected an automated FinOps framework integrating custom **Ansible** playbooks with container resource right-sizing.
-  - Implemented an **AI-driven dynamic autoscaling schedule** that analyzed historical traffic curves to spin down staging clusters and downscale production worker pools during low-load windows.
-- **Impact:** Achieved a **38% recurring reduction in monthly cloud infrastructure spend** within the first 60 days without compromising peak-hour latency.
-
-#### 🔹 Zero-Downtime Microservices Migration & Service Mesh Security
-- **Client Profile:** Enterprise Logistics & Transportation Gateway
-- **Challenge:** Modernizing monolithic legacy Linux/Apache systems to containerized runtimes while maintaining 24/7 uptime and zero-trust service communication.
-- **Consulting Solution:**
-  - Migrated legacy services into lightweight **Podman** and **Docker** containers managed by **Rancher**.
-  - Deployed **HAProxy** and ingress rate limiters combined with **mTLS encryption** between backend endpoints, monitored end-to-end with **Prometheus**, **Loki**, and **Grafana**.
-- **Impact:** Completed the cutover with 0 seconds of unplanned downtime and reduced application payload latency by 32%.
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,ansible,linux,nginx,git"/lign="center">
+<img src="https://img.shields.io/badge/VMware-vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+ps://img.shields.io/badge/Nutanix-HCI-024DA1?style=for-the-badge"/>
+ps://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor= src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=goColor=white
+<img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor>
 
 ---
 
-### 📬 Strategic Engagements & Executive Contact
+# ⚡ Current Focus
 
-- **KSA Mobile / WhatsApp:** [+966 540952792](https://wa.me/966540952792)
-- **Alternative Mobile:** [+92 303 5513800](tel:+923035513800) (Pakistan)
-- **Email:** [ahmadbilal2011@live.com](mailto:ahmadbilal2011@live.com)
-- **LinkedIn:** [linkedin.com/in/ahmadbilal2011](https://www.linkedin.com/in/ahmadbilal2011)
-- **Relocation & Travel:** Based in Riyadh (Transferable Iqama) • Available for Leadership & Advisory roles across Saudi Arabia (Riyadh, Jeddah, Dammam), UAE, and Remote.
+```text
+☸ Enterprise Kubernetes Platforms
+☁ Hybrid Cloud Modernization
+🚀 GitOps & Continuous Delivery
+🤖 AI-Driven Infrastructure Operations
+📊 Observability & Platform Reliability
+🔒 Zero Trust Enterprise Security
+💰 FinOps Cost Optimization
+```
+
+---
+
+# 🏗 Enterprise Technology Stack
+
+## Cloud Platforms
+
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+- VMware Cloud Foundation
+
+## Kubernetes & Containers
+
+- Kubernetes
+- OpenShift
+- Rancher
+- Docker
+- Podman
+- Helm
+- ArgoCD
+
+## CI/CD & Automation
+
+- GitLab CI/CD
+- Jenkins
+- Ansible
+- Terraform
+- GitOps
+- Bash Automation
+
+## Operating Systems
+
+- Red Hat Enterprise Linux
+- Ubuntu
+- Debian
+- Oracle Linux
+- Windows Server
+- Solaris
+- HP-UX
+
+## Monitoring & Observability
+
+- Prometheus
+- Grafana
+- Loki
+- AppDynamics
+- Zabbix
+- Nagios
+- SolarWinds
+- Cacti
+
+## Storage & Data Protection
+
+- Dell EMC PowerStore
+- Dell EMC Unity
+- Huawei OceanStor
+- Veeam
+- RecoverPoint
+- Avamar
+
+## Security & Governance
+
+- CyberArk
+- Thycotic
+- Arcon PAM
+- Active Directory
+- Zero Trust Architecture
+- Enterprise Compliance
+
+---
+
+# 📈 Professional Strength Index
+
+```text
+Cloud Architecture          ████████████████████ 100%
+Kubernetes & OpenShift      ████████████████████ 100%
+Linux Engineering           ████████████████████ 100%
+IT Operations Leadership    ████████████████████ 100%
+DevOps & Automation         ███████████████████░ 95%
+Infrastructure Strategy     ███████████████████░ 95%
+Virtualization & HCI        ███████████████████░ 95%
+Observability & AIOps       ██████████████████░░ 90%
+FinOps Optimization         █████████████████░░░ 85%
+```
+
+---
+
+# 🏆 Selected Achievements
+
+### 🚀 Hybrid Multi-Cloud Transformation
+
+- Designed and operated cloud-native platforms on Google Kubernetes Engine (GKE)
+- Integrated on-prem VMware environments with automated CI/CD pipelines
+- Delivered highly available enterprise workloads
+
+### ☁ Enterprise Kubernetes Leadership
+
+- Led Kubernetes and OpenShift implementations
+- Established GitOps operating models
+- Reduced deployment complexity and operational risk
+
+### 🔒 Government Infrastructure Modernization
+
+- Standardized large-scale Red Hat Enterprise Linux environments
+- Automated patching and compliance activities
+- Implemented enterprise privileged access management
+
+### 📊 AI-Driven Operations
+
+- Introduced proactive observability using Prometheus and Grafana
+- Implemented anomaly detection approaches for infrastructure monitoring
+- Improved incident response and service reliability
+
+### 💰 Cloud Cost Optimization
+
+- Delivered substantial infrastructure spend reduction initiatives
+- Right-sized workloads and optimized cluster utilization
+- Introduced FinOps governance processes
+
+---
+
+# 🎓 Certifications
+
+🏅 PMP® – Project Management Professional
+
+🏅 AWS Certified Solutions Architect – Professional
+
+🏅 RHCSA v9 – Red Hat Certified System Administrator
+
+🏅 VMware Certified Professional (VCP-DCV)
+
+🏅 Azure Administrator (AZ-104)
+
+🏅 Kubernetes & Cloud-Native Learning Paths
+
+🏅 Red Hat Enterprise Automation Training
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
-  <sub>Architected for resilience, governed for scale, and delivered for mission-critical reliability.</sub>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadbilal2011&show_icons=true&themerue
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbilal2011&layout=compact&theme=tokyonight
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/dbilal2011&theme=tokyonight&hide_border=true
+
+</div>
+
+---
+
+# 🌍 Leadership Philosophy
+
+> Build for reliability.
+>
+> Automate everything repeatable.
+>
+> Observe everything measurable.
+>
+> Secure everything critical.
+>
+> Scale everything valuable.
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://wa.me/966540952792">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&app
+</a>
+
+<a href="mailto:ahmadbilal2011@live.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=g
+<a href="https://www.linkedin.com/in/ahmadbilal2011">
+<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=dge&logo=linkedin
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ☁️ Architecting Resilience • Driving Innovation • Enabling Scale
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120ooter
+
 </div>
