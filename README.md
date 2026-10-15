@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://wa.me/966540952792"><img src="https://img.shields.io/badge/Direct_Call_%2F_WhatsApp-%2B966_540952792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:ahmadbilal2011@live.com"><img src="https://img.shields.io/badge/Corporate_Email-ahmadbilal2011%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ahmadbilal2011@live.com"><img src="https://img.shields.io/badge/Email-ahmadbilal2011%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ahmadbilal2011"><img src="https://img.shields.io/badge/LinkedIn_Profile-ahmadbilal2011-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Riyadh%2C_Saudi_Arabia-1E293B?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
