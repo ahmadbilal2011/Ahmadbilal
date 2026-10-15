@@ -17,7 +17,7 @@
 
 | 🏛️ 13+ Years Experience | ☁️ Multi-Cloud & Hybrid | ☸️ Kubernetes & DevOps | 🛡️ Lead IT Operations |
 | :---: | :---: | :---: | :---: |
-| Enterprise Advisory & Delivery | AWS • GCP • Azure • VMware[cite: 1, 2] | OpenShift • GKE • Rancher • CI/CD[cite: 1, 2] | PMP® Governance & SLA Management |
+| Enterprise Advisory & Delivery | AWS • GCP • Azure • VMware | OpenShift • GKE • Rancher • CI/CD | PMP® Governance & SLA Management |
 
 </div>
 
@@ -25,11 +25,11 @@
 
 ### 💼 Executive Summary
 
-As a **Lead Infrastructure & Cloud Solutions Consultant**, I guide enterprise organizations and government entities through complex cloud transformations, system modernizations, and IT operational turnarounds. Backed by **13+ years of engineering leadership** and a **PMP® credential**, I specialize in aligning strategic business goals with high-availability architectures, automated zero-trust operations, and AI-assisted telemetry across hybrid environments[cite: 1, 2].
+As a **Lead Infrastructure & Cloud Solutions Consultant**, I guide enterprise organizations and government entities through complex cloud transformations, system modernizations, and IT operational turnarounds. Backed by **13+ years of engineering leadership** and a **PMP® credential**, I specialize in aligning strategic business goals with high-availability architectures, automated zero-trust operations, and AI-assisted telemetry across hybrid environments.
 
 - 📍 **Location:** Riyadh, Saudi Arabia (Transferable Iqama)
 - 🎯 **Target Roles:** Principal Cloud Architect, Lead Infrastructure Consultant, Head of IT Operations
-- 🌟 **Specialties:** Sovereign IT Governance, Multi-Cluster Kubernetes, Enterprise Virtualization & Storage, AIOps Observability[cite: 1, 2]
+- 🌟 **Specialties:** Sovereign IT Governance, Multi-Cluster Kubernetes, Enterprise Virtualization & Storage, AIOps Observability
 
 ---
 
@@ -54,34 +54,34 @@ As a **Lead Infrastructure & Cloud Solutions Consultant**, I guide enterprise or
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 #### 🐧 Operating Systems & Core Services
-- **OS Distributions:** Red Hat Enterprise Linux (RHEL 6/7/8/9/10), Ubuntu Server, Debian, Windows Server, Oracle Solaris, HP-UX[cite: 1, 2]
-- **Web & Reverse Proxies:** Nginx, Apache HTTP Server, Apache Tomcat, HAProxy[cite: 1, 2]
-- **Enterprise Directory & Services:** Active Directory, DNS, IIS, Samba, Secure Copy (SCP), FTP[cite: 2]
-- **Package Lifecycles:** YUM/DNF, APT, Snap, Source Scratch Compiles[cite: 2]
+- **OS Distributions:** Red Hat Enterprise Linux (RHEL 6/7/8/9/10), Ubuntu Server, Debian, Windows Server, Oracle Solaris, HP-UX
+- **Web & Reverse Proxies:** Nginx, Apache HTTP Server, Apache Tomcat, HAProxy
+- **Enterprise Directory & Services:** Active Directory, DNS, IIS, Samba, Secure Copy (SCP), FTP
+- **Package Lifecycles:** YUM/DNF, APT, Snap, Source Scratch Compiles
 
 #### 📈 Observability, AIOps & IT Service Management
-- **Metrics & Dashboards:** Prometheus, Grafana, Zabbix, Nagios, Cacti, SolarWinds[cite: 1, 2]
-- **Logging & APM:** Grafana Loki, AppDynamics[cite: 1, 2]
+- **Metrics & Dashboards:** Prometheus, Grafana, Zabbix, Nagios, Cacti, SolarWinds
+- **Logging & APM:** Grafana Loki, AppDynamics
 - **AIOps & Intelligence:** Real-time log pattern anomaly detection and predictive disk/compute exhaustion modeling
-- **ITSM & Security Governance:** Ivanti ITSM, Ivanti Asset Management, CyberArk, Thycotic, Arcon PAM[cite: 1, 2]
+- **ITSM & Security Governance:** Ivanti ITSM, Ivanti Asset Management, CyberArk, Thycotic, Arcon PAM
 
 #### 💾 Storage Resilience & Business Continuity
-- **Primary SAN/NAS Arrays:** Dell EMC Storage Systems (PowerStore/Unity), Huawei OceanStor[cite: 2]
-- **Disaster Recovery & Backup Suites:** Veeam Backup & Replication, Dell EMC Avamar, Dell EMC RecoverPoint[cite: 2]
+- **Primary SAN/NAS Arrays:** Dell EMC Storage Systems (PowerStore/Unity), Huawei OceanStor
+- **Disaster Recovery & Backup Suites:** Veeam Backup & Replication, Dell EMC Avamar, Dell EMC RecoverPoint
 
 ---
 
 ### 🏆 Certifications & Professional Credentials
 
-- **PMP®** — Project Management Professional *(Active)*[cite: 1, 2]
-- **AWS Certified Solutions Architect – Professional** *(Active)*[cite: 2]
-- **RHCSA v9** — Red Hat Certified System Administrator *(Active)*[cite: 2]
-- **VCP-DCV 2022** — VMware Certified Professional: Data Center Virtualization *(Active)*[cite: 1, 2]
-- **Red Hat RHCE** — Advanced Automation & System Engineering *(Training Completed)*[cite: 2]
-- **HCIE R&S** — Huawei Certified ICT Expert: Routing & Switching *(Training & Written Exam)*[cite: 2]
-- **Azure Administrator (AZ-104)** *(Prior Certification)*[cite: 2]
-- **Master Cloud-Native Infrastructure with Kubernetes** *(LinkedIn Learning Path)*[cite: 2]
-- **Azure for DevOps: Designing a Strategy** *(LinkedIn Learning)*[cite: 2]
+- **PMP®** — Project Management Professional *(Active)*
+- **AWS Certified Solutions Architect – Professional** *(Active)*
+- **RHCSA v9** — Red Hat Certified System Administrator *(Active)*
+- **VCP-DCV 2022** — VMware Certified Professional: Data Center Virtualization *(Active)*
+- **Red Hat RHCE** — Advanced Automation & System Engineering *(Training Completed)*
+- **HCIE R&S** — Huawei Certified ICT Expert: Routing & Switching *(Training & Written Exam)*
+- **Azure Administrator (AZ-104)** *(Prior Certification)*
+- **Master Cloud-Native Infrastructure with Kubernetes** *(LinkedIn Learning Path)*
+- **Azure for DevOps: Designing a Strategy** *(LinkedIn Learning)*
 
 ---
 
@@ -96,13 +96,13 @@ As a **Lead Infrastructure & Cloud Solutions Consultant**, I guide enterprise or
 #### 2. Public Sector Infrastructure Automation & Zero-Trust Hardening *(ADAA Project)*
 - **Role:** Team Lead IT Operations / Senior Linux Architect
 - **Architecture:** Standardized enterprise configuration across hundreds of RHEL nodes using **Red Hat Satellite** and automated **Ansible** playbooks.
-- **Security & Ops:** Enforced Privileged Access Management (**CyberArk** / **Arcon**) and end-to-end tracing with **AppDynamics**[cite: 1, 2].
+- **Security & Ops:** Enforced Privileged Access Management (**CyberArk** / **Arcon**) and end-to-end tracing with **AppDynamics**.
 - **Outcome:** Reduced security patch deployment windows from multiple days to under 4 hours while fulfilling strict government compliance standards.
 
 #### 3. Detasad , SEC *(National Grid Project)*
 - **Role:** Infrastructure & Operations Lead
-- **Architecture:** Modernized mission-critical virtualization estates on **Dell HCI** and **VMware vSphere**, backed by high-throughput **Dell EMC** and **Huawei OceanStor** SAN arrays[cite: 1, 2].
-- **Disaster Recovery:** Deployed continuous replication via **Veeam** and **Dell EMC RecoverPoint**, integrated with **Ivanti ITSM** for SLA workflows[cite: 1, 2].
+- **Architecture:** Modernized mission-critical virtualization estates on **Dell HCI** and **VMware vSphere**, backed by high-throughput **Dell EMC** and **Huawei OceanStor** SAN arrays.
+- **Disaster Recovery:** Deployed continuous replication via **Veeam** and **Dell EMC RecoverPoint**, integrated with **Ivanti ITSM** for SLA workflows.
 - **Outcome:** Delivered sub-15-minute cross-site DR failover and guaranteed zero unrecoverable data loss for real-time grid operations.
 
 ---
