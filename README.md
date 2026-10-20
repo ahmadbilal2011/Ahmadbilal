@@ -248,7 +248,7 @@ As a **Principal Cloud Architect & Lead Infrastructure Consultant**, I guide ent
 | **Secondary Phone** | [**+92 303 5513800**](tel:+923035513800) | Active Line (Pakistan) |
 | **Corporate Email** | [**ahmadbilal2011@live.com**](mailto:ahmadbilal2011@live.com) | 24-Hour SLA |
 | **Professional Network** | [**linkedin.com/in/ahmadbilal2011**](https://www.linkedin.com/in/ahmadbilal2011) | Global Inquiries |
-| **Current Base** | **Riyadh, Saudi Arabia** (Transferable Iqama) | On-Site (KSA/UAE) & Remote |
+| **Current Base** | **Riyadh, Saudi Arabia** (Transferable Iqama) | On-Site (KSA) & Remote |
 
 <br/>
 
